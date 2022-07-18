@@ -18,4 +18,4 @@
 - информация об услугах телефонии.
 
 ## Используемые библиотеки
-*pandas, pyplot, numpy, sklearn, catboost, lightgbm, optuna, time*
+*pandas, pyplot, numpy, sklearn, catboost, optuna, time*
